@@ -1,0 +1,8 @@
+{
+  "name": "lectorDeHilos",
+  "version": "0.0.1",
+  "description": "app que permite leer de una manera más sencilla los hilos de twitter, permite exportar a formatos epub y pdf",
+  "main": "index.js",
+  "author": "Raúl Armendáriz <raul.armendariz@nox-consulting.com>",
+  "license": "MIT"
+}
